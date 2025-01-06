@@ -1,6 +1,6 @@
 <h1 align="center">3001: An Intersellar Showdown </h1>
 
-I made this little movie while procrastinating soldering the [MoonRatII](https://github.com/PubInv/moonrat) prototype.
+I made this little movie in PowerPoint while procrastinating soldering the [MoonRatII](https://github.com/PubInv/moonrat) prototype.
 
 
 
