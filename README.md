@@ -1,6 +1,6 @@
 <h1 align="center">3001: An Intersellar Showdown </h1>
 
-This is a micro film created January 12, 2025, ***play full screen***
+This is a micro film created January 12, 2025, ***play full screen, sound on***
 
 [Youtube](https://www.youtube.com/watch?v=6lpyreBRC_w)
 
