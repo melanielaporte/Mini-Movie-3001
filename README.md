@@ -1,6 +1,6 @@
 <h1 align="center">3001: An Intersellar Showdown </h1>
 
-Ia a micro film completed 20250112, ***play full screen, sound on***
+This is a micro film, ***Play full screen, sound on***
 
 [Youtube](https://www.youtube.com/watch?v=6lpyreBRC_w)
 
